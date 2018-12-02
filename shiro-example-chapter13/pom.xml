@@ -51,13 +51,13 @@
         <dependency>
             <groupId>org.apache.shiro</groupId>
             <artifactId>shiro-ehcache</artifactId>
-            <version>1.2.2</version>
+            <version>1.4.0</version>
         </dependency>
 
         <dependency>
             <groupId>org.apache.shiro</groupId>
             <artifactId>shiro-quartz</artifactId>
-            <version>1.2.2</version>
+            <version>1.4.0</version>
         </dependency>
 
         <dependency>
@@ -111,13 +111,13 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context</artifactId>
-            <version>4.0.0.RELEASE</version>
+            <version>4.0.5.RELEASE</version>
         </dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-aop</artifactId>
-            <version>4.0.0.RELEASE</version>
+            <version>4.0.5.RELEASE</version>
         </dependency>
 
 
@@ -130,13 +130,13 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-web</artifactId>
-            <version>4.0.0.RELEASE</version>
+            <version>4.1.8.RELEASE</version>
         </dependency>
 
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
-            <version>4.0.0.RELEASE</version>
+            <version>4.1.8.RELEASE</version>
         </dependency>
 
 
